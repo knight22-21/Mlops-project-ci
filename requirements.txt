@@ -1,0 +1,4 @@
+streamlit
+textblob
+flake8
+flake8
